@@ -34,5 +34,5 @@ Este código busca extraer las estadísticas básicas de cada video subido por u
 - El código solo extraerá los últimos 50 videos. Para aumentar el alcance, revisar la linea 53 donde dice limit="50".
 - La API tiene un límite de request por día. Para más información consultar: https://developers.google.com/youtube/v3/getting-started
 
-#Disclaimer
+# Disclaimer
 - El código no es 100% de autoría propia. Fue construido apartir de retazos.
