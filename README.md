@@ -11,7 +11,7 @@ Este código busca extraer las estadísticas básicas de cada video subido por u
 - El ID de un canal de Youtube para ser analizado.
 
 # ¿Cómo generar una Key API en Google Youtube?
-- Conar con una cuenta Gmail y estar logeado en ella.
+- Contar con una cuenta Gmail y estar logeado en ella.
 - Entrar a este link: https://console.cloud.google.com/
 - En la parte superior izquierda, junto con el logo de GoogleAPI, se encontrará el botom "Proyecto Nuevo" (o el nombre de un proyecto en una lista desplegable si ya ha sido usado en el pasado).
 - Generar un proyecto nuevo con el nombre deseado.
